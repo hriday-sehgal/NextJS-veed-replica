@@ -52,7 +52,7 @@ npm run dev
 
 The project is deployed on Vercel. You can access it here:  
 
-[Discord Colored Text Generator](https://videodubberassignment.vercel.app/)
+[Veed Replica](https://nextjs-veed-replica-videodubber-assignment.vercel.app/)
 
 ## Github Repo Link
 GitHub Repository: [https://github.com/hriday-sehgal/NextJS-veed-replica](https://github.com/hriday-sehgal/NextJS-veed-replica)
